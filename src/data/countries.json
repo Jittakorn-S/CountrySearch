@@ -1,0 +1,2315 @@
+[
+    {
+        "CountryName": "Malaysia (QNMY)",
+        "Plan": "Local Plan",
+        "Region": "Southeast Asia",
+        "CountryCode": "M4",
+        "Revamp": "NO",
+        "PlanId": "10",
+        "Currency": "MYR"
+    },
+    {
+        "CountryName": "West Africa",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "CI",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Qatar",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "QA",
+        "Revamp": "",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Russian Federation",
+        "Plan": "World Plan",
+        "Region": "CIS",
+        "CountryCode": "RU",
+        "Revamp": "",
+        "PlanId": "22",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Seychelles Islands",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "SC",
+        "Revamp": "",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Sudan",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "SD",
+        "Revamp": "NO",
+        "PlanId": "14",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Singapore",
+        "Plan": "World Plan",
+        "Region": "Southeast Asia",
+        "CountryCode": "SG",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Svalbard and Jan Mayen Islands",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "SJ",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Sierra Leone",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "SL",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Senegal Republic",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "SN",
+        "Revamp": "Yes",
+        "PlanId": "30",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Somalia",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "SO",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Suriname",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "SR",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "South Sudan",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "SS",
+        "Revamp": "Yes",
+        "PlanId": "29",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "El Salvador",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "SV",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Syrian Arab Republic",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "SY",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Swaziland",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "SZ",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Chad",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "TD",
+        "Revamp": "NO",
+        "PlanId": "30",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Togo",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "TG",
+        "Revamp": "Yes",
+        "PlanId": "30",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Tajikistan",
+        "Plan": "World Plan",
+        "Region": "CIS",
+        "CountryCode": "TJ",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "East Timor",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "TL",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Taiwan",
+        "Plan": "World Plan",
+        "Region": "East Asia",
+        "CountryCode": "TW",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Tanzania",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "TZ",
+        "Revamp": "Yes",
+        "PlanId": "29",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Ukraine",
+        "Plan": "World Plan",
+        "Region": "CIS",
+        "CountryCode": "UA",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Uganda",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "UG",
+        "Revamp": "Yes",
+        "PlanId": "29",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "United States",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "US",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Venezuela",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "VE",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Virgin Islands(U.S.)",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "VI",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Vietnam",
+        "Plan": "World Plan",
+        "Region": "Southeast Asia",
+        "CountryCode": "VN",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Vanuatu",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "VU",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Samoa",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "WS",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Yemen",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "YE",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Zambia",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "ZM",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Zimbabwe",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "ZW",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Central Africa",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "CM",
+        "Revamp": "NO",
+        "PlanId": "30",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Colombia",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "CO",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Serbia/Monten.",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "CS",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Canada",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "CA",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Dem. Rep. Congo",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "CD",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Central African",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "CF",
+        "Revamp": "NO",
+        "PlanId": "30",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Congo",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "CG",
+        "Revamp": "Yes",
+        "PlanId": "30",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Switzerland",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "CH",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Burundi",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "BI",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Benin",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "BJ",
+        "Revamp": "NO",
+        "PlanId": "30",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Brunei",
+        "Plan": "World Plan",
+        "Region": "Southeast Asia",
+        "CountryCode": "BN",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Botswana",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "BW",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Belarus",
+        "Plan": "World Plan",
+        "Region": "CIS",
+        "CountryCode": "BY",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Andorra",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "AD",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Afghanistan",
+        "Plan": "World Plan",
+        "Region": "South Asia",
+        "CountryCode": "AF",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Albania",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "AL",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Armenia",
+        "Plan": "World Plan",
+        "Region": "CIS",
+        "CountryCode": "AM",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Netherlands Antilles",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "AN",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Angola",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "AO",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Antarctica",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "AQ",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Australia",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "AU",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Azerbaijan",
+        "Plan": "World Plan",
+        "Region": "CIS",
+        "CountryCode": "AZ",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Bangladesh",
+        "Plan": "World Plan",
+        "Region": "South Asia",
+        "CountryCode": "BD",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Burkina Faso",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "BF",
+        "Revamp": "Yes",
+        "PlanId": "30",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Bahrain",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "BH",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Cuba",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "CU",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Djibouti",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "DJ",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Dominican Rep.",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "DO",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Egypt",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "EG",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Western Sahara",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "EH",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Eritrea",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "ER",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Gabon",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "GA",
+        "Revamp": "NO",
+        "PlanId": "30",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Grenada",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "GD",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Georgia",
+        "Plan": "World Plan",
+        "Region": "CIS",
+        "CountryCode": "GE",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Ghana",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "GH",
+        "Revamp": "Yes",
+        "PlanId": "29",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Greenland",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "GL",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Gambia",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "GM",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Guinea",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "GN",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Equatorial Guinea",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "GQ",
+        "Revamp": "NO",
+        "PlanId": "30",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Guatemala",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "GT",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "GuineaBissau",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "GW",
+        "Revamp": "NO",
+        "PlanId": "30",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Guyana",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "GY",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Hong Kong, SAR",
+        "Plan": "World Plan",
+        "Region": "East Asia",
+        "CountryCode": "HK",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Honduras",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "HN",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Monaco",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "MC",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Moldova",
+        "Plan": "World Plan",
+        "Region": "CIS",
+        "CountryCode": "MD",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Madagascar",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "MG",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Liberia",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "LR",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Lesotho",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "LS",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Libya",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "LY",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Korea, South",
+        "Plan": "World Plan",
+        "Region": "East Asia",
+        "CountryCode": "KR",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Kuwait",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "KW",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Cayman Islands",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "KY",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Kazakhstan",
+        "Plan": "World Plan",
+        "Region": "CIS",
+        "CountryCode": "KZ",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Laos",
+        "Plan": "World Plan",
+        "Region": "Southeast Asia",
+        "CountryCode": "LA",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Lebanon",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "LB",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Saint Lucia",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "LC",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Iraq",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "IQ",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Iceland",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "IS",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Haiti",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "HT",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Others",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "I6",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Jordan",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "JO",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Kurdistan - region of Iraq",
+        "Plan": "World Plan",
+        "Region": "No Region",
+        "CountryCode": "KD",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Kenya",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "KE",
+        "Revamp": "Yes",
+        "PlanId": "29",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Kyrgyzstan",
+        "Plan": "World Plan",
+        "Region": "CIS",
+        "CountryCode": "KG",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Cambodia",
+        "Plan": "World Plan",
+        "Region": "Southeast Asia",
+        "CountryCode": "KH",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Kiribati",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "KI",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Comoros",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "KM",
+        "Revamp": "NO",
+        "PlanId": "30",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Macedonia",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "MK",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Mali Republic",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "ML",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Mongolia",
+        "Plan": "World Plan",
+        "Region": "East Asia",
+        "CountryCode": "MN",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Macau",
+        "Plan": "World Plan",
+        "Region": "East Asia",
+        "CountryCode": "MO",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Mauritania",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "MR",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Mauritius",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "MU",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Maldives",
+        "Plan": "World Plan",
+        "Region": "South Asia",
+        "CountryCode": "MV",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Mexico",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "MX",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Malaysia",
+        "Plan": "World Plan",
+        "Region": "Southeast Asia",
+        "CountryCode": "MY",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Mozambique",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "MZ",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "New Caledonia",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "NC",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Niger Republic",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "NE",
+        "Revamp": "Yes",
+        "PlanId": "30",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Nigeria",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "NG",
+        "Revamp": "Yes",
+        "PlanId": "29",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Norway",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "NO",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "New Zealand",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "NZ",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Oman",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "OM",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Papua New Guinea",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "PG",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Philippines",
+        "Plan": "World Plan",
+        "Region": "Southeast Asia",
+        "CountryCode": "PH",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Pakistan",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "PK",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Paraguay",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "PY",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Mayotte Island",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "YT",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Kosovo",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "XK",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Wallis and Futuna Islands",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "WF",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Vatican City",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "VA",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Saint Vincent and the Grenadines",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "VC",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Tuvalu",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "TV",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Trinidad and Tobago",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "TT",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Tonga Islands",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "TO",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Tokelau",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "TK",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Tunisia",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "TN",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Thailand",
+        "Plan": "World Plan",
+        "Region": "Southeast Asia",
+        "CountryCode": "TH",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Turks and Caicos Islands",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "TC",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Sao Tome and Principe",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "ST",
+        "Revamp": "NO",
+        "PlanId": "30",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Slovakia",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "SK",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "St. Helena",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "SH",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Slovenia",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "SI",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Sweden",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "SE",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Solomon Islands",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "SB",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Romania",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "RO",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Reunion Island",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "RE",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Ireland",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "IE",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Hungary",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "HU",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Croatia",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "HR",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Saint Kitts and Nevis",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "KN",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Japan",
+        "Plan": "World Plan",
+        "Region": "East Asia",
+        "CountryCode": "JP",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Italy",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "IT",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Liechtenstein",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "LI",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Sri Lanka",
+        "Plan": "World Plan",
+        "Region": "South Asia",
+        "CountryCode": "LK",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Luxembourg",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "LU",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Latvia",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "LV",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Lithuania",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "LT",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Marshall Islands",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "MH",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Palau",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "PW",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Portugal",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "PT",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Poland",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "PL",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Puerto Rico",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "PR",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "French Polynesia",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "PF",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Philippines (QNPH)",
+        "Plan": "Local Plan",
+        "Region": "Southeast Asia",
+        "CountryCode": "P5",
+        "Revamp": "NO",
+        "PlanId": "16",
+        "Currency": "PHP"
+    },
+    {
+        "CountryName": "Panama",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "PA",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Peru",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "PE",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Nepal",
+        "Plan": "World Plan",
+        "Region": "South Asia",
+        "CountryCode": "NP",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Nauru",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "NR",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Niue",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "NU",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Norfolk Island",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "NF",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Nicaragua",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "NI",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "The Netherlands",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "NL",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Namibia",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "NA",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Malawi",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "MW",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Montserrat",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "MS",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Malta",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "MT",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Martinique",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "MQ",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Northern Mariana Islands",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "MP",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Myanmar",
+        "Plan": "World Plan",
+        "Region": "Southeast Asia",
+        "CountryCode": "MM",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Guantanamo Bay",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "GV",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Greece",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "GR",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Guadeloupe",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "GP",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Gibraltar",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "GI",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "French Guiana",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "GF",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "France",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "FR",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "United Kingdom",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "GB",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Spain",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "ES",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Ecuador",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "EC",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Estonia",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "EE",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Finland",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "FI",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Fiji Islands",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "FJ",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Falkland Islands",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "FK",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Micronesia",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "FM",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Dominica",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "DM",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Denmark",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "DK",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Cape Verde Is.",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "CV",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Cyprus",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "CY",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Czech Republic",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "CZ",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Germany",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "DE",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Bulgaria",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "BG",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Belgium",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "BE",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "EUR"
+    },
+    {
+        "CountryName": "Barbados",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "BB",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Bosnia and Herzegovina",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "BA",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Aruba",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "AW",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "American Samoa",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "AS",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Austria",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "AT",
+        "Revamp": "NO",
+        "PlanId": "26",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Antigua and Barbuda",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "AG",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Anguilla",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "AI",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Belize",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "BZ",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Bahamas",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "BS",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Bhutan",
+        "Plan": "World Plan",
+        "Region": "South Asia",
+        "CountryCode": "BT",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Bermuda",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "BM",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Bolivia",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "BO",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Costa Rica",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "CR",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Cook Islands",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "CK",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "French S.Territ",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "TF",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Turkey",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "TR",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "United States Minor Outlying Islands",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "UM",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Cocos (Keeling) Is.",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "CC",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Bouvet Island",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "BV",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Christmas and Cocos Is.",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "CX",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "North Cyprus",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "FO",
+        "Revamp": "YES",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "South Georgia and the South Sandwich Island",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "GS",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Heard and McDonald Is.",
+        "Plan": "World Plan",
+        "Region": "Austral Asia",
+        "CountryCode": "HM",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Pitcairin",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "PN",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "St. Pierre and Miquelon",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "PM",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Singapore (QNPL)",
+        "Plan": "Local Plan",
+        "Region": "Southeast Asia",
+        "CountryCode": "S4",
+        "Revamp": "NO",
+        "PlanId": "23",
+        "Currency": "SGD"
+    },
+    {
+        "CountryName": "Saudi Arabia",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "SA",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "India (Vihaan)",
+        "Plan": "Local Plan",
+        "Region": "South Asia",
+        "CountryCode": "I4",
+        "Revamp": "NO",
+        "PlanId": "12",
+        "Currency": "INR"
+    },
+    {
+        "CountryName": "Uzbekistan",
+        "Plan": "World Plan",
+        "Region": "CIS",
+        "CountryCode": "UZ",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "South Africa",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "ZA",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Diego Garcia",
+        "Plan": "World Plan",
+        "Region": "South Asia",
+        "CountryCode": "DG",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Guernsey",
+        "Plan": "World Plan",
+        "Region": "Rest of the World",
+        "CountryCode": "GG",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Gabon Rep.",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "GO",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Montenegro",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "ME",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Isle of Man",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "IA",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Israel",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "IL",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Turkey (QNP)",
+        "Plan": "Local Plan",
+        "Region": "Europe",
+        "CountryCode": "T4",
+        "Revamp": "NO",
+        "PlanId": "34",
+        "Currency": "TRY"
+    },
+    {
+        "CountryName": "Palestinian National Authority",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "PS",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Morocco",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "MA",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Brazil",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "BR",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Algeria",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "DZ",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "United Arab Emirates",
+        "Plan": "World Plan",
+        "Region": "MENA",
+        "CountryCode": "AE",
+        "Revamp": "Yes",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "South Africa (Local)",
+        "Plan": "Local Plan",
+        "Region": "No Region",
+        "CountryCode": "Z8",
+        "Revamp": "NO",
+        "PlanId": "35",
+        "Currency": "ZAR"
+    },
+    {
+        "CountryName": "Chile",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "CL",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Nepal (Avarjana)",
+        "Plan": "World Plan",
+        "Region": "No Region",
+        "CountryCode": "N4",
+        "Revamp": "NO",
+        "PlanId": "33",
+        "Currency": "NPR"
+    },
+    {
+        "CountryName": "Turkmenistan",
+        "Plan": "World Plan",
+        "Region": "CIS",
+        "CountryCode": "TM",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Uruguay",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "UY",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "British Virgin Is.",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "IO",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Jamaica",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "JM",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Argentina",
+        "Plan": "World Plan",
+        "Region": "The Americas",
+        "CountryCode": "AR",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Ethiopia",
+        "Plan": "World Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "ET",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "United Nations",
+        "Plan": "World Plan",
+        "Region": "Rest of the World",
+        "CountryCode": "UN",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Unknown Country",
+        "Plan": "World Plan",
+        "Region": "Rest of the World",
+        "CountryCode": "OT",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "NATO",
+        "Plan": "World Plan",
+        "Region": "Rest of the World",
+        "CountryCode": "NT",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "India",
+        "Plan": "World Plan",
+        "Region": "South Asia",
+        "CountryCode": "IN",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Korea, North",
+        "Plan": "World Plan",
+        "Region": "East Asia",
+        "CountryCode": "KP",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "China",
+        "Plan": "World Plan",
+        "Region": "East Asia",
+        "CountryCode": "CN",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Rwanda",
+        "Plan": "Local Plan",
+        "Region": "Sub Saharan Africa",
+        "CountryCode": "RW",
+        "Revamp": "NO",
+        "PlanId": "25",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "European Union",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "EU",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "San Marino",
+        "Plan": "World Plan",
+        "Region": "Europe",
+        "CountryCode": "SM",
+        "Revamp": "NO",
+        "PlanId": "11",
+        "Currency": "USD"
+    },
+    {
+        "CountryName": "Sri Lanka (GL Lanka)",
+        "Plan": "Local Plan",
+        "Region": "South Asia",
+        "CountryCode": "L4",
+        "Revamp": "NO",
+        "PlanId": "28",
+        "Currency": "LKR"
+    }
+]
