@@ -21,6 +21,7 @@ export default function CountryResults({ results }: CountryResultsProps) {
                                 <TableRow>
                                     <TableHead>Country Name</TableHead>
                                     <TableHead>Country Code</TableHead>
+                                    <TableHead>Phone Code</TableHead>
                                     <TableHead>Plan Id</TableHead>
                                     <TableHead>Plan</TableHead>
                                     <TableHead>Currency</TableHead>
@@ -32,6 +33,7 @@ export default function CountryResults({ results }: CountryResultsProps) {
                                     <TableRow key={uuidv4()}>
                                         <TableCell className="font-medium">{country.Country}</TableCell>
                                         <TableCell>{country.CountryCode}</TableCell>
+                                        <TableCell>{country.PhoneCode}</TableCell>
                                         <TableCell>{country.PlanID}</TableCell>
                                         <TableCell>{country.Region}</TableCell>
                                         <TableCell>{country.Currency}</TableCell>
