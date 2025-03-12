@@ -24,6 +24,7 @@ export default function CountryResults({ results }: CountryResultsProps) {
                                     <TableHead>Phone Code</TableHead>
                                     <TableHead>Plan Id</TableHead>
                                     <TableHead>Plan</TableHead>
+                                    <TableHead>Region</TableHead>
                                     <TableHead>Currency</TableHead>
                                     <TableHead>Revamp</TableHead>
                                 </TableRow>
@@ -35,6 +36,7 @@ export default function CountryResults({ results }: CountryResultsProps) {
                                         <TableCell>{country.CountryCode}</TableCell>
                                         <TableCell>{country.PhoneCode}</TableCell>
                                         <TableCell>{country.PlanID}</TableCell>
+                                        <TableCell>{country.Plan}</TableCell>
                                         <TableCell>{country.Region}</TableCell>
                                         <TableCell>{country.Currency}</TableCell>
                                         <TableCell>{country.Revamp}</TableCell>
